@@ -60,13 +60,16 @@ The Gourmet Table provides a seamless book-a-table experience, full menu explora
    git clone <YOUR_REPO_URL>
    cd the-gourmet-table
 2. **Install dependencies**
+    ```bash
     npm install
 3. **Run locally**
+    ```bash
     npm start
 4. 
    Open your browser and navigate to http://localhost:5173 (or the port shown in terminal)
 
 5. **Build for production**
+    ```bash
     npm run build
 
 ## 📁 Project Structure
@@ -120,48 +123,66 @@ src/
 └── reportWebVitals.js  
 
 ## 🖼️ Screenshot of the project
-![Homepage](./public/Screenshot_projet .png)  
-## 🎨 Design Features 
+![Homepage](./public/Images/Screenshot_projet%20.png)  
+## 🎨 Design Features
+- **Responsive Design:** Fully responsive across all devices (desktop, tablet, mobile)
+- **Modern UI:** Clean, minimalist design with elegant restaurant aesthetics
+- **Smooth Animations:** Hover effects and smooth transitions on buttons, images, and cards
+- **Color Scheme:** Elegant palette with primary color #D4AF37 and complementary tones
+- **Typography:** Playfair Display for headings, system fonts for body text
 
-    Responsive Design: Fully responsive across all devices (desktop, tablet, mobile)
-    Modern UI: Clean, minimalist design with elegant restaurant aesthetics
+## 🛍️ Menu / Product Features
+- Menu items displayed with images, names, descriptions, and prices
+- Support for categories: Appetizers, Main Courses, Desserts, Drinks, Specials
+- Multiple images per dish (main & hover/zoom view)
+- Price display in Moroccan Dirham (DH)
+- Detailed description for each menu item
 
-    Smooth Animations: Hover effects and smooth transitions on buttons, images, and cards
+## 📝 Available Scripts
+- `npm start` - Start development server
+- `npm run build` - Build for production
+- `npm run lint` - Run ESLint checks
 
-    Color Scheme: Elegant palette with primary color #D4AF37 and complementary tones
+## 🔗 Routes
+- `/` - Homepage
+- `/menu` - Menu page
+- `/booking` - Book your table
+- `/reservations` - My reservations
+- `/contact` - Contact page
+- `/admin` - Admin dashboard
 
-    Typography: Playfair Display for headings, system fonts for body text
-##  🛍️ Menu / Product Features 
-    Menu items displayed with images, names, descriptions, and prices
+## 📧 Contact Information
+- **Email:** support@gourmettable.com
+- **Phone:** +212 650502976
+- **Business Hours:** Mon-Fri: 9AM-6PM UTC +1
+## 🎨 Design Features
+- **Responsive Design:** Fully responsive across all devices (desktop, tablet, mobile)
+- **Modern UI:** Clean, minimalist design with elegant restaurant aesthetics
+- **Smooth Animations:** Hover effects and smooth transitions on buttons, images, and cards
+- **Color Scheme:** Elegant palette with primary color #D4AF37 and complementary tones
+- **Typography:** Playfair Display for headings, system fonts for body text
 
-    Support for categories: Appetizers, Main Courses, Desserts, Drinks, Specials
+## 🛍️ Menu / Product Features
+- Menu items displayed with images, names, descriptions, and prices
+- Support for categories: Appetizers, Main Courses, Desserts, Drinks, Specials
+- Multiple images per dish (main & hover/zoom view)
+- Price display in Moroccan Dirham (DH)
+- Detailed description for each menu item
 
-    Multiple images per dish (main & hover/zoom view)
+## 📝 Available Scripts
+- `npm start` - Start development server
+- `npm run build` - Build for production
+- `npm run lint` - Run ESLint checks
 
-    Price display in dolar ($)
+## 🔗 Routes
+- `/` - Homepage
+- `/menu` - Menu page
+- `/booking` - Book your table
+- `/reservations` - My reservations
+- `/contact` - Contact page
+- `/admin` - Admin dashboard
 
-    Detailed description for each menu item
-##  📝 Available Scripts 
-    npm start - Start development server
-
-    npm run build - Build for production
-
-    npm run lint - Run ESLint checks
-## 🔗 Routes 
-    / - Homepage
-
-    /menu - Menu page
-
-    /booking - Book your table
-
-    /reservations - My reservations
-
-    /contact - Contact page
-
-    /admin - Admin dashboard 
-## 📧 Contact Information 
-    Email: support@gourmettable.com
-
-    Phone: +212 650502976
-
-    Business Hours: Mon-Fri: 9AM-6PM UTC +1
+## 📧 Contact Information
+- **Email:** support@gourmettable.com
+- **Phone:** +212 650502976
+- **Business Hours:** Mon-Fri: 9AM-6PM UTC +1
