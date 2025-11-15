@@ -72,7 +72,7 @@ Use the following demo accounts to access the platform:
 
 1. **Clone the repository**  
    ```bash
-   git clone <YOUR_REPO_URL>
+   git clone https://github.com/RealScriptHero/Project-Booking
    cd the-gourmet-table
 2. **Install dependencies**
     ```bash
