@@ -43,6 +43,21 @@ The Gourmet Table provides a seamless book-a-table experience, full menu explora
 - Clean admin layout
 
 ---
+## 🔑 Demo Login Credentials
+
+Use the following demo accounts to access the platform:
+
+### 👤 **User Account**
+- **Email:** `anas123@gmail.com`  
+- **Password:** `123`
+
+### 🛠️ **Admin Account**
+- **Email:** `admin123@gmail.com`  
+- **Password:** `admin123`
+
+> These test accounts allow you to explore both the user dashboard and the admin dashboard.
+
+---
 
 ## 🛠️ Tech Stack
 - React (function components + hooks)  
