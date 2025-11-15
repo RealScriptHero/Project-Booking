@@ -123,7 +123,8 @@ src/
 └── reportWebVitals.js  
 
 ## 🖼️ Screenshot of the project
-![Homepage](./public/Images/Screenshot_projet%20.png)  
+![Homepage](./public/Images/Screenshot_projet%20.png) 
+
 ## 🎨 Design Features
 - **Responsive Design:** Fully responsive across all devices (desktop, tablet, mobile)
 - **Modern UI:** Clean, minimalist design with elegant restaurant aesthetics
@@ -135,7 +136,7 @@ src/
 - Menu items displayed with images, names, descriptions, and prices
 - Support for categories: Appetizers, Main Courses, Desserts, Drinks, Specials
 - Multiple images per dish (main & hover/zoom view)
-- Price display in Moroccan Dirham (DH)
+- Price display in Moroccan Dolar ($)
 - Detailed description for each menu item
 
 ## 📝 Available Scripts
@@ -153,36 +154,5 @@ src/
 
 ## 📧 Contact Information
 - **Email:** support@gourmettable.com
-- **Phone:** +212 650502976
-- **Business Hours:** Mon-Fri: 9AM-6PM UTC +1
-## 🎨 Design Features
-- **Responsive Design:** Fully responsive across all devices (desktop, tablet, mobile)
-- **Modern UI:** Clean, minimalist design with elegant restaurant aesthetics
-- **Smooth Animations:** Hover effects and smooth transitions on buttons, images, and cards
-- **Color Scheme:** Elegant palette with primary color #D4AF37 and complementary tones
-- **Typography:** Playfair Display for headings, system fonts for body text
-
-## 🛍️ Menu / Product Features
-- Menu items displayed with images, names, descriptions, and prices
-- Support for categories: Appetizers, Main Courses, Desserts, Drinks, Specials
-- Multiple images per dish (main & hover/zoom view)
-- Price display in Moroccan Dirham (DH)
-- Detailed description for each menu item
-
-## 📝 Available Scripts
-- `npm start` - Start development server
-- `npm run build` - Build for production
-- `npm run lint` - Run ESLint checks
-
-## 🔗 Routes
-- `/` - Homepage
-- `/menu` - Menu page
-- `/booking` - Book your table
-- `/reservations` - My reservations
-- `/contact` - Contact page
-- `/admin` - Admin dashboard
-
-## 📧 Contact Information
-- **Email:** support@gourmettable.com
-- **Phone:** +212 650502976
+- **Phone:** +212 702976319
 - **Business Hours:** Mon-Fri: 9AM-6PM UTC +1
